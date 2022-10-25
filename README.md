@@ -12,4 +12,12 @@ build of a 6 voice polyphonic sythesizer
 3. separate envelopes for noise and waveforms
 4. switch all oscillators to same pitch
 5. input signal midi like note on note of control changes
-6.  
+6. differential output
+7. chord memory
+
+## timeschedule
+
+### week 1
+research individual circuits
+digitally controlled triangle oscillator with variable slope??
+
